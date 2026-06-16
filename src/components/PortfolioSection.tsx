@@ -79,7 +79,7 @@ const PortfolioSection = () => {
                   FEATURED
                 </span>
                 <span className="px-2.5 py-1 md:px-3 md:py-1.5 rounded-full bg-primary/90 backdrop-blur-md text-primary-foreground text-[10px] md:text-xs font-orbitron tracking-[0.15em] md:tracking-widest">
-                  PC · STEAM
+                  PC
                 </span>
               </div>
 
@@ -110,7 +110,7 @@ const PortfolioSection = () => {
 
                   <div className="flex flex-wrap items-center gap-2">
                     <a
-                      href="https://box-siege.vercel.app/"
+                      href="https://boxsiege.vercel.app/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="btn-primary font-orbitron text-sm tracking-wider"
@@ -151,7 +151,7 @@ const PortfolioSection = () => {
 
               <div className="flex flex-col sm:flex-row gap-3">
                 <a
-                  href="https://box-siege.vercel.app/"
+                  href="https://boxsiege.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary font-orbitron text-xs sm:text-sm tracking-wider w-full sm:w-auto justify-center"
@@ -160,14 +160,6 @@ const PortfolioSection = () => {
                     Play Now
                     <ExternalLink size={14} />
                   </span>
-                </a>
-                <a
-                  href="https://box-siege.vercel.app/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="btn-outline font-orbitron text-xs sm:text-sm tracking-wider w-full sm:w-auto justify-center"
-                >
-                  Watch Trailer
                 </a>
               </div>
             </div>
